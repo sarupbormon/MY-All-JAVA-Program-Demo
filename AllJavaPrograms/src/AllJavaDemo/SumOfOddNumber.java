@@ -10,8 +10,8 @@ public class SumOfOddNumber {
 		System.out.println("Enter First Number : ");
 		m = input. nextInt();
 		System.out.println("Enter End Number : ");
-		n = input.nextInt()
-;
+		n = input.nextInt();
+
 		for(i = m; i <= n; i++) {
 			if(i%2 != 0)
 				continue;
